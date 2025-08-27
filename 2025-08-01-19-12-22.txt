@@ -1,0 +1,20 @@
+实用工具
+
+ascii-image-converter : 图片转 ascii 艺术字
+asciinema : 终端录屏工具
+calcurse : 日历日程
+column : 格式化制表工具
+cpipes : 好看的管道
+dooit : todo 备忘录
+dra : github release 下载工具
+gitnr : .gitignore 生成工具
+grex : 正则表达式生成工具
+koji : git commit 生成工具
+lolcat : 彩色 cat
+omm : 任务管理工具
+rename : 批量重命名工具
+rexi : python 编写的正则匹配工具
+spf(superfile) : 类似 yazi 的文件管理器
+ttyper : rust 构建的打字练习工具
+unimatrix cmatrix: 绿字滚屏
+wev : 按键读取工具
