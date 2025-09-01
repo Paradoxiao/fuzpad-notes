@@ -9,6 +9,7 @@ dooit : todo 备忘录
 dra : github release 下载工具
 gitnr : .gitignore 生成工具
 grex : 正则表达式生成工具
+hexyl : 十六进制查看工具
 koji : git commit 生成工具
 lolcat : 彩色 cat
 omm : 任务管理工具
