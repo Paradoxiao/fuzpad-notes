@@ -2,6 +2,7 @@
 
 ascii-image-converter : 图片转 ascii 艺术字
 asciinema : 终端录屏工具
+broot : 终端文件浏览器
 calcurse : 日历日程
 column : 格式化制表工具
 cpipes : 好看的管道
