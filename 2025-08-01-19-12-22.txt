@@ -7,6 +7,7 @@ column : 格式化制表工具
 cpipes : 好看的管道
 dooit : todo 备忘录
 dra : github release 下载工具
+frpc : 内网穿透客户端
 gitnr : .gitignore 生成工具
 grex : 正则表达式生成工具
 hexyl : 十六进制查看工具
