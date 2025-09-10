@@ -4,6 +4,7 @@ aria2 : 多协议下载工具
 atuin : 命令行历史增强工具
 ascii-image-converter : 图片转 ascii 艺术字
 asciinema : 终端录屏工具
+bc : 计算器
 bleachbit : 系统清理工具
 broot : 终端文件浏览器
 calcurse : 日历日程
