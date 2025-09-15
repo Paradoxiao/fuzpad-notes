@@ -26,6 +26,7 @@ gifski : 将视频转换为高质量 gif
 gitnr : .gitignore 生成工具
 grex : 正则表达式生成工具
 hexyl : 十六进制查看工具
+jq : JSON 处理工具
 just : 运行脚本工具
 koji : git commit 生成工具
 lazygit : git 命令简化工具
