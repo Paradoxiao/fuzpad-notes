@@ -33,6 +33,7 @@ lazygit : git 命令简化工具
 lolcat : 彩色 cat
 lynx : 终端浏览器
 lsd : 美化 ls
+mangohud : 游戏性能监视工具
 mpv : 多媒体播放器
 ncdu : 磁盘使用分析工具
 neovide : neovim 图形界面
