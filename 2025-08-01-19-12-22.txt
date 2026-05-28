@@ -5,6 +5,7 @@ atuin : 命令行历史增强工具
 ascii-image-converter : 图片转 ascii 艺术字
 asciinema : 终端录屏工具
 bc : 计算器
+bear : 编译器分析工具
 bleachbit : 系统清理工具
 broot : 终端文件浏览器
 calcurse : 日历日程
@@ -39,6 +40,19 @@ ncdu : 磁盘使用分析工具
 neovide : neovim 图形界面
 omm : 任务管理工具
 pacman-contrib : pacman 辅助工具
+pdfattach : PDF 附件工具
+pdfdetach : PDF 附件提取工具
+pdffonts : PDF 字体查看工具
+pdfimages : PDF 图片查看工具
+pdfinfo : PDF 信息查看工具
+pdfseparate : PDF 分页提取工具
+pdfsig : PDF 签名工具
+pdftocairo : PDF 转图片工具
+pdftohtml : PDF 转 HTML 工具
+pdftoppm : PDF 转图片工具
+pdftops : PDF 转 PostScript 工具
+pdftotext : PDF 转文本工具
+pdfunite : PDF 合并工具
 prismlauncher : Minecraft 启动器
 python-pyclip : 剪贴板工具
 rename : 批量重命名工具
