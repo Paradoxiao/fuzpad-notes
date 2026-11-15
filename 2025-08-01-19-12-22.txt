@@ -11,6 +11,7 @@ broot : 终端文件浏览器
 calcurse : 日历日程
 carbonyl : 终端浏览器
 cmatrix : 绿字滚屏
+cmd-wrapped : 命令使用统计工具
 column : 格式化制表工具
 cowsay : 会说话的牛
 cpipes : 好看的管道
